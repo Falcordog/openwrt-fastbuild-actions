@@ -34,7 +34,7 @@ jobs:
         mode:
           - normal
           - test
-        target: [ramips, xiaomi redmi router ac2100]
+        target: [X86_64, xiaomi_redmi_router_ac2100]
         include:
         - mode: normal
           title: Squashing builder
